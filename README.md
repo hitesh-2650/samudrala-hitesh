@@ -1,19 +1,18 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,30&height=220&section=header&text=Hey%20there,%20I'm%20[Your%20Name]!%20👋&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,30&height=220&section=header&text=Hey%20there,%20I'm%20Samudrala%20Hitesh!%20👋&fontSize=34&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-  <!-- WITTY SUBTITLE / TAGLINE -->
-  <h3>☕ Turning caffeine into code and bugs into "undocumented features" 🚀</h3>
+  <h3>☕ Turning caffeine into code & bugs into "unexpected features" 🚀</h3>
 
   <p>
-    <b>Frontend Enthusiast</b> • <b>Backend Tinkerer</b> • <b>Professional Googler</b>
+    <b>Software Craftsman</b> • <b>Problem Solver</b> • <b>Professional Googler</b>
   </p>
 
-  <!-- QUICK BADGES -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=8A2BE2&logo=github" />
+  <!-- BADGES -->
+  <a href="https://github.com/SamudralaHitesh">
+    <img src="https://img.shields.io/github/followers/SamudralaHitesh?label=Followers&style=for-the-badge&color=8A2BE2&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/SamudralaHitesh">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </div>
@@ -25,18 +24,18 @@
 ### 🧐 About Me
 
 - 💻 **What I do:** I write code that works on my machine™️.
-- ⚡ **Fun Fact:** My code doesn't have bugs, it just develops random spontaneous features.
-- 🔭 **Currently working on:** A secret project that will make me a billionaire (or just break my build).
-- 🧠 **Currently learning:** How to explain to non-tech people what an API is without using pizza analogies.
-- 💬 **Ask me about:** JavaScript, Python, or why 0.1 + 0.2 === 0.30000000000000004.
-- 🎯 **2026 Goal:** Write clean code without relying on StackOverflow (Just kidding, StackOverflow is life).
+- ⚡ **Fun Fact:** My code doesn't have bugs; it just develops random spontaneous features.
+- 🔭 **Currently working on:** Next-gen web apps and cool side projects.
+- 🧠 **Currently learning:** Advanced system architecture & mastering modern frameworks.
+- 💬 **Ask me about:** JavaScript, Python, Web Dev, or why `0.1 + 0.2 !== 0.3`.
+- 🎯 **Goal:** Write code so clean that even my past self understands it 6 months later.
 
 ---
 
 ### 🧰 Tech & Tools Universe
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,git,docker,tailwind,postgres,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,git,docker,tailwind,postgres,vscode&perline=7" />
 </div>
 
 ---
@@ -45,37 +44,37 @@
 
 <div align="center">
   <!-- STATS CARD -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamudralaHitesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   
   <!-- MOST USED LANGUAGES -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamudralaHitesh&layout=compact&theme=tokyonight&hide=html,css" />
 </div>
 
 <br />
 
 <div align="center">
   <!-- STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamudralaHitesh&theme=tokyonight" />
 </div>
 
 ---
 
-### 🐍 Contribution Snake (Eating My Commits)
+### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SamudralaHitesh/SamudralaHitesh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-### 💡 Daily Dev Joke / Quote
+### 💡 Daily Dev Joke
 
 <div align="center">
-  <img src="https://readme-jokes-five.vercel.app/api?theme=tokyonight" alt="Joke" />
+  <img src="https://readme-jokes-five.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
 </div>
 
 <br />
 
 <div align="center">
-  <sub>⭐ Profile Visitors: <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=8A2BE2&style=flat-square" /></sub>
+  <sub>⭐ Profile Visitors: <img src="https://komarev.com/ghpvc/?username=SamudralaHitesh&color=8A2BE2&style=flat-square" /></sub>
 </div>
